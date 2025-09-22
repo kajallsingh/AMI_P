@@ -7,7 +7,7 @@ This project focuses on predicting *Acute Myocardial Infarction (AMI)* (commonly
 ## 📊 Dataset
 - The dataset contains patient information such as *age, gender, heart rate, blood sugar, troponin levels, CK-MB*, and final diagnosis (AMI present/absent).
 - Target variable: *Result* (0 = Negative, 1 = Positive).
-- Source: [Mendeley Dataset / Kaggle / (specify actual source you used)].
+- Source: Mendeley Heart Attack Prediction Dataset from Kaggle
 
 
 ## ⚙ Methodology
